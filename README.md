@@ -1,4 +1,3 @@
-
 <center><img src="dnc.png" height="100"  width="100"></center>
 
 ## Mini Projeto - Roof Imóveis DNC
@@ -15,6 +14,9 @@
 
 - [Dataset](https://www.kaggle.com/harlfoxem/housesalesprediction)
 - [Dataset detalhado](https://geodacenter.github.io/data-and-lab/KingCounty-HouseSales2015/)
+
+- **Link do Projeto**
+- https://colab.research.google.com/drive/1293HdLxkKRaDAEUqmgE4dcA_ah49VNNZ?usp=sharing
 
 
 
