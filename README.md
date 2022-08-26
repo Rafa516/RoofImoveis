@@ -1,5 +1,5 @@
 
-<center><img src="dnc.png" width="350"></center>
+<center><img src="dnc.png" height="100"  width="100"></center>
 
 ## Mini Projeto - Roof Imóveis DNC
 
